@@ -25,14 +25,6 @@
 
 ---
 
-### 🧭 Current Quests:
-- 🛠️ Building: **ACORD XML Microservice** for insurance integrations  
-- 🧩 Integrating: QuotePro JSON → ITC APIs  
-- 💥 Automating: CI/CD pipelines for production deployment  
-- 🧙 Leveling up in: **Cloud-native design** & **Zoho CRM Integration**
-
----
-
 ### 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ItsVinOp&theme=radical&hide_border=false&show_icons=true)
 ![Streak](https://streak-stats.demolab.com/?user=ItsVinOp&theme=radical&hide_border=false)
@@ -47,8 +39,8 @@
 
 ### 💬 Let's Connect:
 - 🌐 [Portfolio](#) *(Coming soon — like a boss fight)*  
-- 📧 Email: [you@example.com]  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: [vinayakshirke97206@gmail.com]  
+- 💼 [LinkedIn](www.linkedin.com/in/itsvinop)
 
 > *“Only I level up — and I’m not stopping anytime soon.”*  
 > *Let’s build. Let’s automate. Let’s scale.*
