@@ -39,7 +39,7 @@
 
 ### 💬 Let's Connect:
 - 🌐 [Portfolio](#) *(Coming soon — like a boss fight)*  
-- 📧 Email: [vinayakshirke97206@gmail.com]  
+- 📧 [Email](vinayakshirke97206@gmail.com)  
 - 💼 [LinkedIn](www.linkedin.com/in/itsvinop)
 
 > *“Only I level up — and I’m not stopping anytime soon.”*  
