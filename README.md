@@ -1,4 +1,4 @@
-https://deadline.com/wp-content/uploads/2025/05/SoloLeveling_S2.jpg?w=681&h=383&crop=1
+<img src="https://deadline.com/wp-content/uploads/2025/05/SoloLeveling_S2.jpg?w=681&h=383&crop=1" alt="Solo Leveling" width="100%" />
 
 # 💫 About Me
 
