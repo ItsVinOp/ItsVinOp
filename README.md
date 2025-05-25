@@ -35,18 +35,6 @@
 ### 🏆 Trophies of the Dungeon
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ItsVinOp&theme=radical&no-bg=true&no-frame=true)
 
----
-
-### 💬 Let's Connect:
-- 🌐 [Portfolio](#) *(Coming soon — like a boss fight)*  
-- 📧 [Email](vinayakshirke97206@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/itsvinop)
 
 > *“Only I level up — and I’m not stopping anytime soon.”*  
 > *Let’s build. Let’s automate. Let’s scale.*
-
-[![](https://visitcount.itsvg.in/api?id=ItsVinOp&icon=2&color=4)](https://visitcount.itsvg.in)
-
----
-
-<!-- Powered by GPRM | Inspired by Solo Leveling -->
